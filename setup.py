@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="glasspy_extra",
+    name="glasspy-extra",
     version="0.1.0",
     author="Daniel Roberto Cassar",
     author_email="daniel.r.cassar@gmail.com",
