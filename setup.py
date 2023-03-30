@@ -15,6 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
         "scikit-learn==1.2.0",
+        "glasspy>=0.4.0",
     ],
     keywords="glass, non-crystalline materials",
     classifiers=[
